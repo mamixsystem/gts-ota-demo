@@ -1,0 +1,5 @@
+GTSFW1
+# GTS OTA-poll demo manifest (kendi-server, Tuya-BAGIMSIZ). GitHub raw = gecerli HTTPS.
+# compatible_hw / min_version YOK -> F1-1 gate SKIP -> surum-kiyas: 99.0.0 > cihaz(0.1.0) -> SHOULD_UPDATE.
+version=99.0.0
+image_url=https://raw.githubusercontent.com/mamixsystem/gts-ota-demo/main/gts_solar_controller.bin
